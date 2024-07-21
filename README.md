@@ -11,11 +11,9 @@ https://youtu.be/J7F4xM2vffk
   <li>Novida, Jhon Paul Joe C.</li>
 </ul>
 
-![image](![Frame 1 (3)](https://github.com/user-attachments/assets/74e61677-049f-4e34-9852-46932ef9ddd8)
-)
-![image](![Dashboard (2)](https://github.com/user-attachments/assets/645557b6-2d45-4717-a2ca-071e7fae215d)
-![image](![Parcels](https://github.com/user-attachments/assets/331a0ceb-0577-4182-8351-628c91c3c20c)
-)
-![image](![Notif](https://github.com/user-attachments/assets/a3c1dd5c-9283-4a76-90d7-f641fd627cc9)
-)
-![Settings](https://github.com/user-attachments/assets/4af02a16-c33c-4b40-8786-08b8b151de1a)
+<h2 align="left">UI Design(Figma)</h2>
+<img src="https://github.com/user-attachments/assets/ad3c86b2-c482-4e56-b2e1-615224e14d4a" width="300">
+<img src="https://github.com/user-attachments/assets/910ef40a-cf68-4a1a-9731-1a8b9f7311cf" width="300"> 
+<img src="https://github.com/user-attachments/assets/471d5371-9249-4da3-a2c1-711fa8e2301f" width="300">
+<img src="https://github.com/user-attachments/assets/8d14fa9d-ca3c-49b2-84da-279040034610" width="300">
+<img src="https://github.com/user-attachments/assets/caaefe02-414a-4362-ab40-60333223f899" width="300">
